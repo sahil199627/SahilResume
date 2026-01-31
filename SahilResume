@@ -118,37 +118,6 @@
 
 
 
-    
-<!-- -------------------- Complere Info System Pvt. Ltd. -------------------- -->
-<div class="job-block" style="margin-top: 15px;">
-    <div class="job-header">
-        <span class="company" style="border-bottom: 1px solid #000">
-            IIT Madras
-        </span>
-        <span class="location">Ambala, India</span>
-    </div>
-
-<div class="job-subheader">
-                <span class="role" style="color: #000; font-weight: bold;">
-                    Data Intern
-                </span>
-            <span class="dates">Aug 2023 – Jan 2024</span>
-            </div>
-
-            <ul>
-                <li>Optimized SQL queries and PySpark scripts for ETL in Databricks, supporting live data projects.</li>
-                <li>Collaborated on pipeline integrations, delivering insights for cross-functional teams.</li>
-                <li>Presented project updates and findings, enhancing internal knowledge sharing.</li>
-            </ul>
-            <div class="tech-stack">
-                <strong>Tech Stack:</strong> Python, Flask, Celery, SQL, JavaScript, VueJS
-            </div>
-            </div>
-
-    </section>
-
-
-
 <!-- -------------------- EDUCATION -------------------- -->
 
     <section>
@@ -156,8 +125,8 @@
         
         <div class="job-block">
             <div class="job-header">
-                <span class="company">Indian Institute of Technology Madras</span>
-                <span class="dates">Jan 2021 – Dec 2024</span>
+                <span class="company">Kurukshetra University</span>
+                <span class="dates">MAY 2022</span>
             </div>
             <div class="job-subheader">
                 <span class="role">B.Sc Computer Science
