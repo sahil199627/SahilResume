@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sahil Umrao - Resume</title>
+    <link rel="stylesheet" href="classic.css"> 
+</head>
+<body>
+
+
+    <header>
+        <h1>Sahil Umrao</h1>
+        <div class="contact-info">
+            Data Engineer (Azure & Databricks Specialist)<br>
+            Dehrahun | +91-8053059021 | sahil.umrao27@gmail.com |
+            <a href="https://www.linkedin.com/in/sahil-umrao-979bba12a?/">LinkedIn</a> | 
+            <a href="https://github.com/sahil199627">GitHub</a>
+        </div>
+    </header>
+
+
+
+    <section>
+        <h2>Summary</h2>
+        <p>
+            <div style="margin-bottom: 15px; color: #333;">
+                <strong>Azure Data Engineer</strong> with <strong>2.5 years of experience</strong> in building scalable data pipelines. 
+                I have a good understanding of <strong>Azure Databricks, ADF, SQL and Python</strong>. 
+                I have a background in handling <strong>Healthcare data</strong>, specifically managing <strong>PBM, Rx Claims, and Eligibility</strong> workflows.
+            </div>
+
+            <!-- Data Engineer with ~2.5 years of experience specializing in Databricks, PySpark, SQL, Python, and ADF. 
+            I have successfully migrated complex ETL pipelines from ADF to Databricks, improving performance by 40%. 
+            Experienced in using Python and SQL to automate data workflows for large-scale insurance projects.  -->
+
+            <!-- Azure Data Engineer with 2.5 years of experience specializing in the Healthcare & PBM domain. 
+             Expert in utilizing Azure Databricks, PySpark, and ADF to architect scalable ETL pipelines for critical workflows including Claims, Rx, Medicals, and Eligibility. Successfully migrated legacy SQL processes to modern Delta Lake architectures and currently leads Engineering Operations to ensure precise, HIPAA-compliant data delivery for enterprise clients. -->
+        
+        </p>
+    </section>
+
+
+    <section>
+        <h2>Technical Skills</h2>
+        <div class="skills-list">
+            <strong>Cloud:</strong> Azure Databricks, PySpark, Delta Lake, Azure Data Factory (ADF), ADLS<br>
+            <strong>Languages:</strong> Python (Data Engineering), SQL, Shell Scripting<br>
+            <strong>Databases:</strong> Snowflake, Azure SQL Database, SQL Server<br>
+            <strong>Tools & DevOps:</strong> Git, Azure DevOps, Power BI, VS Code<br>
+        </div>
+    </section>
+
+
+<!-- -------------------- EXPERIENCES -------------------- -->
+
+    <section>
+        <h2>Experience</h2>
+
+
+    <!-- -------------------- COMPLERE INFOSYSTEM EXPERIENCES -------------------- -->
+    <div class="job-block">
+        <div class="job-header">
+            <span class="company" style="border-bottom: 1px solid #000; font-weight: bold;">
+                Complere Infosystem Pvt. Ltd.
+            </span>
+            <span class="location">Remote / India</span>
+        </div>
+        
+        <div class="dates" style="font-size: 10pt; color: #000; margin-bottom: 8px; font-weight: bold;">
+            Dec 2023 – Present
+        </div>
+
+        <!-- <div style="margin-bottom: 15px; font-style: italic; color: #444; border-left: 3px solid #ddd; padding-left: 10px;">
+            Core Data Engineer for a <strong>Health Insurance & PBM</strong> platform, handling sensitive workflows like 
+            <strong>Claims, Rx, and Eligibility</strong>. Migrated legacy SQL systems to <strong>Azure Databricks (PySpark)</strong> 
+            for improved performance. Currently driving <strong>Engineering Operations</strong>, focusing on metadata-driven onboarding, 
+            <strong>HIPAA compliance</strong>, and resolving complex data logic issues using <strong>Python & SQL</strong>.
+        </div> -->
+        
+        <div style="margin-bottom: 15px; font-style: italic; color: #444; border-left: 3px solid #ddd; padding-left: 10px;">
+            Core Data Engineer for a <strong>Health Insurance & PBM</strong> platform. I handle sensitive data like 
+            <strong>Claims, Rx, and Eligibility</strong>. My main work involved moving old SQL systems to <strong>Azure Databricks</strong> 
+            to make them faster. Currently, I handle <strong>Engineering Operations</strong>, where I set up new client data, ensure 
+            <strong>HIPAA safety</strong>, and fix complex logic issues using <strong>Python & SQL</strong>.
+        </div>
+
+
+
+    <!-- -------------------- COMPLERE INFOSYSTEM EXPERIENCES : Data Engineer I  -------------------- -->
+
+        <div class="job-subheader" style="margin-top: 15px;">
+            <span class="role" style="color: #444; font-weight: bold;">
+                Data Engineer I</span>
+            <span class="dates" style="font-weight: normal; font-style: italic;">Present</span>
+        </div>
+        <ul>
+            <div style="margin-bottom: 4px; text-decoration: underline; font-weight: 600;">Data Engineering Team </div>
+            <ul>
+                <li><strong>Reusable ETL Framework:</strong> Designed modular ETL workflows for <strong>Historical Data Loads</strong>, incorporating metadata-driven logic for staging and full loads that could be reused across different clients.</li>
+                <li><strong>PBM Integration:</strong> Engineered the final data extraction layer to generate compliant payloads for the <strong>PBM (Pharmacy Benefit Management)</strong> system APIs.</li>
+                <li><strong>Outbound Migration:</strong> Migrated critical <strong>Outbound Workflows</strong> from legacy Azure SQL Stored Procedures to <strong>Databricks</strong>, modernizing the stack and removing dependency on SQL compute.</li>
+            </ul>
+        </ul>
+                <ul>
+            <div style="margin-bottom: 4px; text-decoration: underline; font-weight: 600;">Engineering Ops Team (Current)</div>            
+            <li><strong>Metadata-Driven Onboarding:</strong> Managed end-to-end configurations for critical domains (Eligibility, RX, Medicals, PA Clinicals, FLM, Obesity), defining metadata layouts for diverse file formats (<strong>EDI 834, Fixed Width, Delimitter</strong>) to ensure accurate ingestion.</li>
+            <!-- <li><strong>System Optimization:</strong> Streamlined the <strong>"Gold Copy"</strong> framework to clone production-grade configurations, reducing manual effort and ensuring 100% deployment stability.</li> -->
+            <li><strong>Secure Delivery:</strong> Orchestrating HIPAA-compliant pipelines to deliver <strong>RX & Claims History</strong> extracts to TPAs, ensuring strict adherence to PHI/PII data safety standard. </li>         
+            <li><strong>Client Handing:</strong> Handled the pharmacy and medical data for the most critical and biggest Client during the tenure tenure.</li>
+            <li><strong>Root Cause Analysis (RCA):</strong> Spearheaded deep-dive investigations into <strong>Accumulator Mismatches</strong>, identifying code-level logic errors and deploying permanent fixes to prevent future data drift.</li>
+            <li><strong>Operational Dashboards:</strong> Designed <strong>"Accumulator Alignment"</strong> dashboards to provide stakeholders with real-time visibility into client data health.</li>
+        </ul>
+    
+        <div class="tech-stack">
+            <strong>Tech Stack:</strong> Databricks, Azure Data Factory (ADF), Azure Blob, Pyspark, Python, SQL
+        </div>
+    </div>
+
+
+
+    
+<!-- -------------------- Complere Info System Pvt. Ltd. -------------------- -->
+<div class="job-block" style="margin-top: 15px;">
+    <div class="job-header">
+        <span class="company" style="border-bottom: 1px solid #000">
+            IIT Madras
+        </span>
+        <span class="location">Ambala, India</span>
+    </div>
+
+<div class="job-subheader">
+                <span class="role" style="color: #000; font-weight: bold;">
+                    Data Intern
+                </span>
+            <span class="dates">Aug 2023 – Jan 2024</span>
+            </div>
+
+            <ul>
+                <li>Optimized SQL queries and PySpark scripts for ETL in Databricks, supporting live data projects.</li>
+                <li>Collaborated on pipeline integrations, delivering insights for cross-functional teams.</li>
+                <li>Presented project updates and findings, enhancing internal knowledge sharing.</li>
+            </ul>
+            <div class="tech-stack">
+                <strong>Tech Stack:</strong> Python, Flask, Celery, SQL, JavaScript, VueJS
+            </div>
+            </div>
+
+    </section>
+
+
+
+<!-- -------------------- EDUCATION -------------------- -->
+
+    <section>
+        <h2>Education</h2>
+        
+        <div class="job-block">
+            <div class="job-header">
+                <span class="company">Indian Institute of Technology Madras</span>
+                <span class="dates">Jan 2021 – Dec 2024</span>
+            </div>
+            <div class="job-subheader">
+                <span class="role">B.Sc Computer Science
+            </div>
+
+    </section>
+
+</body>
+</html>
